@@ -2,7 +2,10 @@
 
 Modulo Backend con Node y Express 
 
-Registro de Usuarios
-Inicio de Sesión
-Ruta Protegida
-Middlewares, Encriptación y Errores
+-Registro de Usuarios
+
+-Inicio de Sesión
+
+-Ruta Protegida
+
+-Middlewares, Encriptación y Errores
